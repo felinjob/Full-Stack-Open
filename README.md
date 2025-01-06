@@ -4,13 +4,9 @@
 
 ### The **[Full Stack Open](https://fullstackopen.com/en/)** is a free online course on modern web development with a focus on JavaScript-based technologies. It is offered by the University of Helsinki, one of the most renowned universities in Finland.
 
-<center>
-
-
-## Part 0: Fundamentals of Web apps
+## [Part 0: Fundamentals of Web apps](https://github.com/felinjob/Full-Stack-Open/tree/main/Part_0)
 
 <img src="./extras/P_0.svg" alt="Imagem_00" width="300">
-</center>
 
 In this part, we will familiarize ourselves with the practicalities of taking the course. After that, we will have an overview of the basics of web development and also talk about the advances in web application development during the last few decades.
 
@@ -29,12 +25,9 @@ In this part, we will familiarize ourselves with the practicalities of taking th
 
 </details>
 
-<center>
-
 ## Part 1: Introduction to React and JavaScript
 
 <img src="./extras/P_1.svg" alt="Imagem_01" width="300">
-</center>
 
 This part serves as an introduction to the React library and essential JavaScript concepts. We will build a simple React application and learn about the core concepts of React, including components, props, and state. We will also cover essential JavaScript features like variables, arrays, objects, and functions.
 
@@ -86,14 +79,9 @@ This part serves as an introduction to the React library and essential JavaScrip
 
 </details>
 
-<center>
-
-
-
 ## Part 2: Communicating with server
 
 <img src="./extras/P_2.svg" alt="Imagem_02" width="300">
-</center>
 
 This part dives deeper into React and introduces the interaction between the frontend and a backend server. We will learn how to fetch and modify data from a server using the `axios` library and explore crucial concepts like asynchronous JavaScript, promises, and RESTful APIs. Additionally, we will cover styling React applications with CSS and managing more complex states.
 
@@ -154,13 +142,10 @@ This part dives deeper into React and introduces the interaction between the fro
 
 </details>
 
-<center>
-
-
 ## Part 3: Node.js and Express
 
 <img src="./extras/P_3.svg" alt="Imagem_03" width="300">
-</center>
+
 
 This part focuses on backend development using Node.js and Express. We will learn how to build a RESTful API for our notes application, interact with a MongoDB database, and deploy our application to the internet using Fly.io or Render.
 
@@ -204,13 +189,9 @@ This part focuses on backend development using Node.js and Express. We will lear
 
 </details>
 
-<center>
-
 ## Part 4: Testing Express applications, user administration
 
 <img src="./extras/P_4.svg" alt="Imagem_04" width="300">
-</center>
-
 
 This part delves into backend testing, user administration, and token-based authentication. We will refactor our backend application, write integration tests using the `node:test` library, and implement user authentication using JSON Web Tokens (JWTs).
 
@@ -269,12 +250,10 @@ This part delves into backend testing, user administration, and token-based auth
 
 </details>
 
-<center>
 
 ## Part 5: User Authentication, Advanced React, and Testing
 
 <img src="./extras/P_5.svg" alt="Imagem_05" width="300">
-</center>
 
 This part focuses on implementing user authentication in our React application, exploring advanced React concepts like `props.children`, refs, and PropTypes, and setting up robust testing strategies for both frontend and backend. We will learn how to manage user login, store authentication tokens, and conditionally render components based on user status. Additionally, we will cover unit testing with Vitest and end-to-end testing with Cypress or Playwright.
 
@@ -341,12 +320,9 @@ This part focuses on implementing user authentication in our React application, 
 
 </details>
 
-<center>
-
 ## Part 6: State Management with Redux
 
 <img src="./extras/P_6.svg" alt="Imagem_06" width="300">
-</center>
 
 This part introduces Redux, a popular library for managing application state in JavaScript applications. We will learn the core concepts of Redux, including actions, reducers, and the store, and how to integrate Redux into our React application for efficient state management. We will also explore Redux Toolkit, a library that simplifies Redux development, and alternative state management solutions like React Query and the Context API.
 
@@ -400,12 +376,9 @@ This part introduces Redux, a popular library for managing application state in 
 
 </details>
 
-<center>
-
 ## Part 7: Class Components, Hooks, Styling and Webpack
 
 <img src="./extras/P_7.svg" alt="Imagem_07" width="300">
-</center>
 
 This part explores various advanced concepts in React development, including class components, custom hooks, styling techniques, and the Webpack bundler. We will learn how to create and manage class components, extract reusable logic with custom hooks, style our applications with different methods, and bundle our code for production using Webpack.
 
@@ -475,12 +448,9 @@ This part explores various advanced concepts in React development, including cla
 
 </details>
 
-<center>
-
 ## Part 8: GraphQL
 
 <img src="./extras/P_8.svg" alt="Imagem_08" width="300">
-</center>
 
 This part introduces GraphQL, a modern query language for APIs that provides a more efficient and flexible alternative to REST. We will learn how to build a GraphQL server using Apollo Server, define schemas and resolvers, and handle queries and mutations. Additionally, we will cover integrating our GraphQL server with a React frontend using Apollo Client, managing application state with GraphQL, and implementing advanced features like subscriptions and caching.
 
@@ -544,12 +514,9 @@ This part introduces GraphQL, a modern query language for APIs that provides a m
 
 </details>
 
-<center>
-
 ## Part 9: TypeScript
 
 <img src="./extras/P_9.svg" alt="Imagem_09" width="300">
-</center>
 
 This part introduces TypeScript, a typed superset of JavaScript that adds static typing and other features to improve code quality and maintainability. We will learn the basics of TypeScript, including type annotations, interfaces, and type narrowing, and how to use it in both frontend and backend development. We will also cover setting up a development environment with `ts-node`, configuring `tsconfig.json`, and integrating TypeScript with Express and React.
 
